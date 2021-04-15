@@ -13,6 +13,7 @@
 		3ECF3A952627E1E5001E36B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ECF3A932627E1E5001E36B9 /* Main.storyboard */; };
 		3ECF3A972627E1E6001E36B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ECF3A962627E1E6001E36B9 /* Assets.xcassets */; };
 		3ECF3A9A2627E1E6001E36B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ECF3A982627E1E6001E36B9 /* LaunchScreen.storyboard */; };
+		3ECF3AA32627EE6F001E36B9 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ECF3AA22627EE6F001E36B9 /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3ECF3A962627E1E6001E36B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3ECF3A992627E1E6001E36B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3ECF3A9B2627E1E6001E36B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3ECF3AA22627EE6F001E36B9 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3ECF3A8D2627E1E5001E36B9 /* AppDelegate.swift */,
 				3ECF3A8F2627E1E5001E36B9 /* SceneDelegate.swift */,
 				3ECF3A912627E1E5001E36B9 /* ViewController.swift */,
+				3ECF3AA22627EE6F001E36B9 /* ToDoItem.swift */,
 				3ECF3A932627E1E5001E36B9 /* Main.storyboard */,
 				3ECF3A962627E1E6001E36B9 /* Assets.xcassets */,
 				3ECF3A982627E1E6001E36B9 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				3ECF3A922627E1E5001E36B9 /* ViewController.swift in Sources */,
 				3ECF3A8E2627E1E5001E36B9 /* AppDelegate.swift in Sources */,
+				3ECF3AA32627EE6F001E36B9 /* ToDoItem.swift in Sources */,
 				3ECF3A902627E1E5001E36B9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
